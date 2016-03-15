@@ -1,7 +1,9 @@
 # 2D-Overland-Flow
 
-To my reviewer: navigate to OverlandFlow_constant_rainrateinfilitration.py.  I just realized that I did not change the name of this file--
+To my reviewer: navigate to OverlandFlow_constant_rainrate&infilitration.py.  I just realized that I did not change the name of this file--
 it should read: OverlandFlow_variable_rainrateinfilitration because I am varying rainrate and infilitration.
+
+Make sure to run this model in Spyder--Idle for some reason is not recognizing landlab.
 
 The file produces 2 figures. One is the water thickness over time and the other is water elevation over time. You'll have to pull
 them apart from eachother when they first load (they load on top of eachother :/ ).
