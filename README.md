@@ -1,7 +1,7 @@
 # 2D-Overland-Flow
 
 To my reviewer: navigate to OverlandFlow_constant_rainrate&infilitration.py.  I just realized that I did not change the name of this file--
-it should read: OverlandFlow_variable_rainrateinfilitration because I am varying rainrate and infilitration.
+it should read: OverlandFlow_variable_rainrate&infilitration because I am varying rainrate and infilitration.
 
 Make sure to run this model in Spyder--Idle for some reason is not recognizing landlab.
 
