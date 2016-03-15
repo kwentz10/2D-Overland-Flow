@@ -9,7 +9,7 @@ The file produces 2 figures. One is the water thickness over time and the other 
 them apart from eachother when they first load (they load on top of eachother :/ ).
 
 I am having trouble with several things: 1) I do not know how to make the colorbar axis set so that the min and max values are constant 
-over the runtime. 2) I don't understand why my overland flow is so small (it is 0.004 mm at its greatest). 3)I don't know if my y axis
+over the runtime. 2) I don't understand why my overland flow is so small (it is 0.004 mm at its greatest). 3) I don't know if my y axis
 should be flipped..it goes from high to low numbers. I don't know if that is just how landlab reads in the grids.
 
 Thanks for reviewing! 
